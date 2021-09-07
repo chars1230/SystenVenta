@@ -1,0 +1,38 @@
+[{
+        "precio": 7000,
+        "id": 1,
+        "title": "Café",
+        "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 6000,
+        "id": 2,
+        "title": "Aire libre",
+        "thumbnailUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 1000,
+        "id": 3,
+        "title": "Agua",
+        "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 5000,
+        "id": 4,
+        "title": "Mug",
+        "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 50000,
+        "id": 5,
+        "title": "Felino",
+        "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 60000,
+        "id": 6,
+        "title": "Refrescante",
+        "thumbnailUrl": "https://picsum.photos/id/50/600"
+    }
+
+]
